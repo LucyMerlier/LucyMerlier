@@ -39,7 +39,7 @@ Si vous trouvez quoi que ce soit qui vous semble étrange, n'hésitez pas à ouv
 ## 📫 Contact me / Contactez-moi
 
 🇬🇧  
-If you want to contact me, you can find me on [LinkedIn](https://www.linkedin.com/in/lucymerlier/). Don't hesitate to start a conversation via private message!
+If you want to contact me, you can find me on [LinkedIn](https://www.linkedin.com/in/lucymerlier/). Feel free to start a conversation via private message!
 
 🇫🇷  
 Si vous voulez prendre contact avec moi, vous pouvez me trouver sur [LinkedIn](https://www.linkedin.com/in/lucymerlier/). N'hésitez pas à entamer une conversation par message privé!
