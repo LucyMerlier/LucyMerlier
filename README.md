@@ -5,7 +5,7 @@ I am a french junior web developer and an alumni, then former teaching assistant
 Here, you will find the personnal projects I have been working on or am still working on today.
 
 🇫🇷  
-Je suis une développeuse web junior, et ancienne élève, puis assistante formatrice à la Wild Code School 🙁.  
+Je suis une développeuse web junior, et ancienne élève, puis assistante formatrice à la Wild Code School 🙂.  
 Ici, vous trouverez les projets personnels sur lesquels j'ai travaillé ou sur lesquels je travaille encore aujourd'hui.
 
 ## 💻 What I'm working on / Ce sur quoi je travaille
