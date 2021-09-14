@@ -1,22 +1,26 @@
 # 👋 Hey you! Welcome to my GitHub profile! / Salut! Bienvenue sur mon profil Github!
 
 🇬🇧  
-I am a french junior web developer and an alumni, then former teaching assistant at the Wild Code School 🙂.  
+I am a french junior web developer and an alumni and former **teaching assistant** at the **Wild Code School** 🙂.  
 Here, you will find the personnal projects I have been working on or am still working on today.
 
 🇫🇷  
-Je suis une développeuse web junior, et ancienne élève, puis assistante formatrice à la Wild Code School 🙂.  
+Je suis une développeuse web junior, et ancienne élève et ancienne **assistante formatrice** à la **Wild Code School** 🙂.  
 Ici, vous trouverez les projets personnels sur lesquels j'ai travaillé ou sur lesquels je travaille encore aujourd'hui.
 
 ## 💻 What I'm working on / Ce sur quoi je travaille
 
 🇬🇧  
-I am currently finishing to develop a website for the Souq' Jazz Machine big band, and hope to be able to deploy it in prod very soon, so stay tuned! In the meantime, you can take a look at the code on [its repository](https://github.com/LucyMerlier/souq-jazz-machine) if you want 😉. You can also install the project and test it yourself on your machine by following the instructions in the README.  
-If you find anything that seems odd to you, feel free to leave an issue! 🙂
+I am currently finishing to develop a website for the *Souq' Jazz Machine* big band, and hope to be able to deploy it in prod very soon, so stay tuned! In the meantime, you can take a look at the code on [its repository](https://github.com/LucyMerlier/souq-jazz-machine) if you want 😉. You can also install the project and test it yourself on your machine by following the instructions in the **README**.  
+If you find anything that seems odd to you, feel free to leave an *issue*! 🙂
+
+Also, I started working on my *online CV and portfolio*, but more on that later! 😉
 
 🇫🇷  
-Je suis en train de finir le développement du site internet du Souq' Jazz Machine, que j'espère déployer en prod sous peu, donc restez attentifs! En attendant, vous pouvez aller jeter un œil au code sur [son dépôt](https://github.com/LucyMerlier/souq-jazz-machine) si cela vous intéresse 😉. Vous pouvez aussi installer le projet localement et le tester par vous même en suivant les instructions dans le README.  
-Si vous trouvez quoi que ce soit qui vous semble étrange, n'hésitez pas à ouvrir une issue! 🙂
+Je suis en train de finir le développement du site internet du *Souq' Jazz Machine*, que j'espère déployer en prod sous peu, donc restez attentifs! En attendant, vous pouvez aller jeter un œil au code sur [son dépôt](https://github.com/LucyMerlier/souq-jazz-machine) si cela vous intéresse 😉. Vous pouvez aussi installer le projet localement et le tester par vous même en suivant les instructions dans le **README**.  
+Si vous trouvez quoi que ce soit qui vous semble étrange, n'hésitez pas à ouvrir une *issue*! 🙂
+
+J'ai aussi commencé à travailler sur mon *CV et protfolio en ligne*, mais je n'en dis pas plus pour l'instant! 😉
 
 ## 🧰 The tools I use / Les outils que j'utilise
 
@@ -39,7 +43,7 @@ Si vous trouvez quoi que ce soit qui vous semble étrange, n'hésitez pas à ouv
 ## 📫 Contact me / Contactez-moi
 
 🇬🇧  
-If you want to contact me, you can find me on [LinkedIn](https://www.linkedin.com/in/lucymerlier/). Feel free to start a conversation via private message!
+If you want to contact me, you can find me on *[LinkedIn](https://www.linkedin.com/in/lucymerlier/)*. Feel free to start a conversation via private message!
 
 🇫🇷  
-Si vous voulez prendre contact avec moi, vous pouvez me trouver sur [LinkedIn](https://www.linkedin.com/in/lucymerlier/). N'hésitez pas à entamer une conversation par message privé!
+Si vous voulez prendre contact avec moi, vous pouvez me trouver sur *[LinkedIn](https://www.linkedin.com/in/lucymerlier/)*. N'hésitez pas à entamer une conversation par message privé!
